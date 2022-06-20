@@ -1,1 +1,11 @@
 # Current-and-Emerging-Trends-AI
+The treasure hunt game is a game where an AI, or agent, must find a way through a maze-like map to the treasure, or end. The maze can be changed so it's not always the same. The AI will train itself to find the treasure using exploitation and exploration. The code given for this hunt is all the side code that is required for making the game, displaying the results, and the initialization of the agent and neural network. The code we, as a student, were required to make was the main portion where the agent runs through its epochs and training. Said code also contained episode remembering, rewards, and evalutation of an epoch. 
+
+#What do computer scientists do and why does it matter?
+Computer scientists do a ton of different things. They create and maintain the programs and applications that run basically everything in today's world. They are, also, on the front of new inventions and innovation, helping create better things. For example, the SpaceX crew had to create a ton of code to allow the rocket to land back on the ground. Linking back to this course, SpaceX actually uses AI and machine learning to launch, control, and land their rockets. All of which would be impossible without computer scientists. 
+
+#How do I approach a program as a computer scientist?
+In general, if I'm allowed time to think, I'll analyze the situation, look at all the possible paths and results, and take the best action. I do this in games quite often, which is similar to how AI do it. I look at the rewards, calculate if it's worth it and take action accordingly. 
+
+#What are my ethical responsibilities to the end user and the organization?
+To do the job I was assigned to do, or help with. Using SpaceX as an example again, my responsibilites would involve helping in develop the next technology in space exploration. I really love space and hope to one be on the fore front of it. This leads into ethical issues. Could the code developed at SpaceX be used for military purposes? Most definitely. My responsibilities mean that, to the best of my ability, create programs that do what need to be done, and not what could be done, but at the same time, being able to adapt the code for some uses versus others. Which is very hard and is always an ever changing line. 
